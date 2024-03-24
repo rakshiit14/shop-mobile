@@ -1,6 +1,5 @@
 # Flutter eCommerce App
 
-This is the official Flutter Project for this course:
 
 - [Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
 
@@ -12,5 +11,3 @@ A Flutter web preview of the app can be found here:
 
 - [Flutter Web Demo](https://my-shop-ecommerce-stg.web.app/)
 
-
-### [LICENSE: MIT](../LICENSE.md)
